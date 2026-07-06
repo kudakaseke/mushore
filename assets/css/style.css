@@ -51,6 +51,10 @@ body {
   margin-left: auto;
 }
 
+.mobile-cart-button {
+  display: none;
+}
+
 .profile-menu {
   position: relative;
 }
@@ -585,38 +589,67 @@ body {
 }
 
 @media (max-width: 991px) {
+  .site-header .navbar {
+    padding: 6px 0;
+  }
+
+  .site-header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+  }
+
   .navbar-toggler {
-    display: none;
+    order: 1;
+    padding: 4px 7px;
+  }
+
+  .navbar-brand {
+    order: 2;
+    margin: 0;
+    font-size: 0.95rem;
+  }
+
+  .mobile-cart-button {
+    order: 3;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    min-height: 34px;
+    padding: 6px 9px;
+    border-radius: 6px;
+    font-size: 0.78rem;
+    line-height: 1;
   }
 
   .navbar-collapse {
-    display: block !important;
+    order: 4;
     flex-basis: 100%;
+    background: rgba(10, 30, 61, 0.98);
+    margin-top: 6px;
+    border-radius: 10px;
+    padding: 8px 9px;
   }
 
   .navbar-nav {
     flex-direction: row;
-    flex-wrap: wrap;
-    gap: 6px 14px;
-    padding-top: 12px;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 7px;
+    width: 100%;
   }
 
   .navbar-nav .nav-link {
-    padding: 4px 0;
-  }
-
-  .navbar-collapse {
-    background: rgba(10, 30, 61, 0.98);
-    margin-top: 10px;
-    border-radius: 10px;
-    padding: 12px;
+    padding: 3px 0;
+    font-size: clamp(0.63rem, 2.75vw, 0.78rem);
+    white-space: nowrap;
   }
 
   .auth-actions {
-    margin-left: 0;
-    margin-top: 12px;
-    align-items: stretch;
-    flex-direction: column;
+    display: none;
   }
 
   .profile-toggle {
