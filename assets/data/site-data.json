@@ -1,0 +1,246 @@
+{
+  "products": [
+    {
+      "title": "Apple iPhone 16 Pro Max",
+      "label": "Apple iPhones",
+      "category": "apple-iphones",
+      "price": "$1,699",
+      "amount": 1699,
+      "oldPrice": "$1,799",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Apple iPhone 15 Pro Max",
+      "label": "Apple iPhones",
+      "category": "apple-iphones",
+      "price": "$1,499",
+      "amount": 1499,
+      "oldPrice": "$1,599",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Apple iPhone 14 Pro Max",
+      "label": "Apple iPhones",
+      "category": "apple-iphones",
+      "price": "$1,199",
+      "amount": 1199,
+      "oldPrice": "$1,299",
+      "image": "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Apple iPhone 13 Pro Max",
+      "label": "Apple iPhones",
+      "category": "apple-iphones",
+      "price": "$999",
+      "amount": 999,
+      "oldPrice": "$1,099",
+      "image": "https://images.unsplash.com/photo-1632633173522-85c5b7c41f56?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Apple iPhone 12 Pro Max",
+      "label": "Apple iPhones",
+      "category": "apple-iphones",
+      "price": "$799",
+      "amount": 799,
+      "oldPrice": "$899",
+      "image": "https://images.unsplash.com/photo-1603891128711-11b4b03bb138?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Apple iPhone 11",
+      "label": "Apple iPhones",
+      "category": "apple-iphones",
+      "price": "$499",
+      "amount": 499,
+      "oldPrice": "$599",
+      "image": "https://images.unsplash.com/photo-1573148195900-7845dcb9b127?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Samsung Galaxy S24 Ultra",
+      "label": "Samsung",
+      "category": "samsung",
+      "price": "$1,399",
+      "amount": 1399,
+      "oldPrice": "$1,499",
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Samsung Galaxy S23 Ultra",
+      "label": "Samsung",
+      "category": "samsung",
+      "price": "$1,099",
+      "amount": 1099,
+      "oldPrice": "$1,199",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Samsung Galaxy S22 Ultra",
+      "label": "Samsung",
+      "category": "samsung",
+      "price": "$899",
+      "amount": 899,
+      "oldPrice": "$999",
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Samsung Galaxy S21 Ultra",
+      "label": "Samsung",
+      "category": "samsung",
+      "price": "$749",
+      "amount": 749,
+      "oldPrice": "$849",
+      "image": "https://images.unsplash.com/photo-1610792516775-01de03eae630?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Samsung Galaxy S20",
+      "label": "Samsung",
+      "category": "samsung",
+      "price": "$549",
+      "amount": 549,
+      "oldPrice": "$649",
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Huawei P60 Pro",
+      "label": "Huawei",
+      "category": "huawei",
+      "price": "$899",
+      "amount": 899,
+      "oldPrice": "$999",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Huawei Mate 50 Pro",
+      "label": "Huawei",
+      "category": "huawei",
+      "price": "$799",
+      "amount": 799,
+      "oldPrice": "$899",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Huawei Nova 11",
+      "label": "Huawei",
+      "category": "huawei",
+      "price": "$449",
+      "amount": 449,
+      "oldPrice": "$529",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "HP Spectre x360",
+      "label": "HP Laptops",
+      "category": "hp",
+      "price": "$1,299",
+      "amount": 1299,
+      "oldPrice": "$1,449",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "HP EliteBook 840",
+      "label": "HP Laptops",
+      "category": "hp",
+      "price": "$999",
+      "amount": 999,
+      "oldPrice": "$1,099",
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Dell XPS 15 OLED",
+      "label": "Dell Laptops",
+      "category": "dell",
+      "price": "$1,899",
+      "amount": 1899,
+      "oldPrice": "$2,099",
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Dell Latitude 7420",
+      "label": "Dell Laptops",
+      "category": "dell",
+      "price": "$949",
+      "amount": 949,
+      "oldPrice": "$1,049",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Lenovo ThinkPad X1 Carbon",
+      "label": "Lenovo Laptops",
+      "category": "lenovo",
+      "price": "$1,599",
+      "amount": 1599,
+      "oldPrice": "$1,749",
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Lenovo IdeaPad 5",
+      "label": "Lenovo Laptops",
+      "category": "lenovo",
+      "price": "$749",
+      "amount": 749,
+      "oldPrice": "$849",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Acer Aspire 5",
+      "label": "Acer Laptops",
+      "category": "acer",
+      "price": "$649",
+      "amount": 649,
+      "oldPrice": "$729",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Acer Predator Helios",
+      "label": "Acer Laptops",
+      "category": "acer",
+      "price": "$1,399",
+      "amount": 1399,
+      "oldPrice": "$1,549",
+      "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Sony WH-1000XM5 Headphones",
+      "label": "Accessories",
+      "category": "accessories",
+      "price": "$349",
+      "amount": 349,
+      "oldPrice": "$399",
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "USB-C Fast Charger",
+      "label": "Accessories",
+      "category": "accessories",
+      "price": "$39",
+      "amount": 39,
+      "oldPrice": "$49",
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "title": "Wireless Keyboard and Mouse",
+      "label": "Accessories",
+      "category": "accessories",
+      "price": "$89",
+      "amount": 89,
+      "oldPrice": "$109",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Code Tech helped us choose reliable phones and laptops for our whole team. The service was fast and practical.",
+      "name": "Tariro M.",
+      "role": "Operations Manager"
+    },
+    {
+      "quote": "Great pricing, clean advice, and every device was configured before delivery.",
+      "name": "Kuda N.",
+      "role": "Small Business Owner"
+    },
+    {
+      "quote": "Their accessory recommendations saved us money without sacrificing quality.",
+      "name": "Rudo C.",
+      "role": "Designer"
+    }
+  ]
+}
